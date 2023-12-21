@@ -1,0 +1,1 @@
+print ("selamatt datang bjir")
